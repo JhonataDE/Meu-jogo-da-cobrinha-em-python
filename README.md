@@ -49,6 +49,8 @@ python main.py
 
   *Imagem do jogo*
   <img width="997" height="835" alt="screenshot" src="https://github.com/user-attachments/assets/5c3ce981-5307-4b4b-9c94-bdf9d17835cf" />
+  <img width="999" height="838" alt="screenshot1" src="https://github.com/user-attachments/assets/55d32f8c-2bbc-4f7e-a97b-eacd140391b6" />
+
 
   *Aprendizados*
 
